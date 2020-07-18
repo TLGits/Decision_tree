@@ -27,3 +27,5 @@ requirements.txt：安装依赖
 第二步是安装python插件graphviz： pip install graphviz
 
 第三步是安装python插件pydotplus。这个没有什么好说的: pip install pydotplus)
+
+参考：https://blog.csdn.net/t949500898/article/details/107399267
